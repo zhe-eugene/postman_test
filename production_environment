@@ -1,0 +1,15 @@
+{
+	"id": "039359d2-f76a-496c-b9d8-72f00f9efd00",
+	"name": "production",
+	"values": [
+		{
+			"key": "host",
+			"value": "https://qauto2.forstudy.space",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-01-14T09:52:09.389Z",
+	"_postman_exported_using": "Postman/10.22.1"
+}
